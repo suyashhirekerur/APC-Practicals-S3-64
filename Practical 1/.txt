@@ -1,0 +1,3 @@
+loops - while, for
+
+8 data types
